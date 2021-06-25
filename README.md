@@ -1,4 +1,4 @@
-# Introduction To dynamic programming
+# Introduction To Dynamic Programming
 Presentation for junior students introducing them to basic dynamic programming concepts.
 
 1. What is dynamic programming?
